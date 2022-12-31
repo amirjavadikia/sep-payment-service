@@ -1,2 +1,2 @@
 # sep-payment-service
-This is a Laravel Package for saman (sep) Payment gateway.
+This is a Laravel Service for saman (sep) Payment gateway.
